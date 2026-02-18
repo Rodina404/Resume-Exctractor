@@ -6,7 +6,6 @@ A repo for AI-based programming project currently we are working on selecting th
 Rodina Mohamed - 22101313
 Aya Mamdouh - 22101087
 Rokia Islam - 22101084
-Mariam Mohamed - 22100778
 Noureen Yasser - 22101109 
 Mohamed Mostafa - 22101336
 
